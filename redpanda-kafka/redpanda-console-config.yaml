@@ -1,0 +1,3 @@
+console:
+  volumes:
+    - ./console-mounts:/etc/redpanda/
