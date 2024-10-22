@@ -1,0 +1,3 @@
+redpanda:
+  volumes:
+    - ./redpanda-mounts:/etc/redpanda/
